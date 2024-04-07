@@ -36,8 +36,8 @@ Player is not in the dictionary. In this case, we add it with a score of 0.
 [Documentation](https://docs.python.org/release/3.12.2/tutorial/index.html)
 
 
-## 🚀 About Me
-I'm an Accross Plateforms Archictecturer, an Engineer and Trainer. I'm also passionnate with DevOPs and Cloud Services.
+## 🚀 About Author
+Bonevy BEBY is an Accross Plateforms Archictecturer, an Engineer and Trainer. He's also passionnate with DevOPs and Cloud Services.
 
 
 ## 🛠 Skills
