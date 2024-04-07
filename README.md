@@ -37,7 +37,7 @@ Player is not in the dictionary. In this case, we add it with a score of 0.
 
 
 ## 🚀 About Author
-Bonevy BEBY is an Accross Plateforms Archictecturer, an Engineer and Trainer. He's also passionnate with DevOPs and Cloud Services.
+Bonevy BEBY is a Software Engineer,an Accross Plateforms Archictecturer and a Trainer. He's also passionnate with DevOPs and Cloud Services.
 
 
 ## 🛠 Skills
