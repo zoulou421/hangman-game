@@ -31,6 +31,8 @@ The following cases must be managed:
 The file does not exist. There, we create an empty dictionary, no score was found.
 Player is not in the dictionary. In this case, we add it with a score of 0.
 
+![pic.png](pic.png)
+
 ## Documentation
 
 [Documentation](https://docs.python.org/release/3.12.2/tutorial/index.html)
